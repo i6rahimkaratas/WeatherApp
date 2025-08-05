@@ -14,6 +14,7 @@ Python ile yazılmış, [OpenWeather API](https://openweathermap.org/api) kullan
 - OpenWeatherMap API  
 - Requests kütüphanesi  
 
-## 📸 Ekran Görüntüsü (isteğe bağlı)
+## 📸 Ekran Görüntüsü 
+<img width="594" height="720" alt="Ekran Resmi 2025-08-01 15 18 00" src="https://github.com/user-attachments/assets/910d1de0-3219-4f7a-bc9a-b3c671dccf8c" />
 
-Eğer uygulamanın bir ekran görüntüsü varsa buraya ekleyebilirsin:
+
